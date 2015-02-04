@@ -49,10 +49,12 @@ Nos preocupa que
 
 Una lista con items de los puntos que nos preocupan con respecto al
 problema y las soluciones.  Tal vez los temas que debatimos no nos
-motivan del todo, pero solo podemos expresarlo como una preocupación.
-Esto ayuda a todas a tener en cuenta nuestras preocupaciones
-colectivas a la hora de llevar a cabo las tareas y prever cuando una
-acción puede generar malestar.
+motivan del todo o no terminamos de estar de acuerdo en el enfoque o su
+necesidad inmediata, pero solo podemos expresarlo como una preocupación.
+
+Esto ayuda a todas a tener en cuenta nuestras preocupaciones colectivas
+a la hora de llevar a cabo las tareas y prever cuando una acción puede
+generar malestar.
 
 
 Cosas para hacer

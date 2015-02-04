@@ -85,3 +85,6 @@ Material de referencia
 Si no todas estamos al tanto de lo que se está debatiendo, agregar
 material de lectura, audiovisual, etc. para introducirnos en el tema y
 participar con conocimiento de causa.
+
+* [Herramientas para la democracia
+  directa](http://utopia.partidopirata.com.ar/democracia_directa.html)

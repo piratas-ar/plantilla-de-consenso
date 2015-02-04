@@ -32,7 +32,8 @@ Necesidades
 -----------
 
 Una lista con items de las necesidades que tenemos con respecto al
-problema y las posibles soluciones.
+problema y las posibles soluciones.  Materiales, recursos, medios,
+responsables, etc.
 
 
 Estamos contentas porque

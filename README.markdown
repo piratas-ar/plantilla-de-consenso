@@ -10,7 +10,12 @@ autodocumenta.
 El problema
 -----------
 
-Describir el problema que se presenta.
+Describir el problema que se presenta.  Dar detalles, esperanzas y
+resultados esperados.  Ser claras con la urgencia y las fechas
+necesarias para resolverlo.  Si hay indefiniciones, el proceso de
+consenso debe tratar de dilucidarlas, para que el problema quede mejor
+formulado.  Es mejor demorarse un poco en este paso que saltar a la
+proposición de soluciones sin tener el problema en claro.
 
 
 Posibles soluciones
@@ -20,7 +25,7 @@ Una lista con items de posibles soluciones.  Idealmente se presenta el
 problema y luego de debatirlo se empiezan a agregar soluciones.  Sin
 embargo, cuando alguien presenta un problema ya tiene una solución en
 mente, se puede agregar acá pero hay que tener en cuenta que muy
-posiblemente termine siendo modificada al final del proceso.
+posiblemente termine siendo modificada durante el proceso de consenso.
 
 
 Necesidades

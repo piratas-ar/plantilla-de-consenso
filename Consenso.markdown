@@ -59,6 +59,18 @@ No hay que olvidar la fecha tentativa, que ayuda a todas a organizar
 sus tiempos, agendas y tareas.
 
 
+Cosas hechas
+------------
+
+Listar aquí las tareas para hacer que ya fueron realizadas, con su fecha
+de finalización agregada.  Esto permite visualizar rápidamente qué se
+hizo y qué falta hacer, además de tener un seguimiento mínimo de cuánto
+tiempo tardamos en cumplir con lo que consensuamos.
+
+Si se está usando papel, tachar el ítem en la lista anterior y volverlo
+a escribir aquí.  Si se está usando un medio digital, cortar y pegar.
+
+
 Material de referencia
 ----------------------
 
